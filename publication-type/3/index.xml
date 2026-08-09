@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Selina Clarke</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Pathways of Harm: Historical Evidence on the Environmental and Human Costs of Mining</title>
+      <link>/publication/job-market_paper/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/job-market_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children of a Heating Transition: Long-Term Consequences of Reduced Local Air Pollution</title>
+      <link>/publication/dh-pollution/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/dh-pollution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributional Implications of Selection into Heating-System Retrofit Subsidies</title>
+      <link>/publication/energy-subsidies/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/energy-subsidies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renovation of Multi-Family Housing: Barriers, Distributional Effects, and Policy Solutions for a Just Green Transition</title>
+      <link>/publication/multifam-renovating/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/multifam-renovating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

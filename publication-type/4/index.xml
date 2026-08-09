@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Selina Clarke</title>
+    <link>/publication-type/4/</link>
+      <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title> Tasapalautus parempi tapa kompensoida polttoainekulujen nousua kuin polttoaineveron keventäminen</title>
+      <link>/publication/2035legit-policy-brief/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2035legit-policy-brief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tasapalautus tehokkain tapa hyvittää polttoainekuluja pienituloisille</title>
+      <link>/publication/tpan-policy-brief/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/tpan-policy-brief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background Report for the Economic Policy Council on Carbon Pricing in Finland</title>
+      <link>/publication/tpan-raportti/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/tpan-raportti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
